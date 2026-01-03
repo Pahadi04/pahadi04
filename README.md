@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **rana04ayush@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yBECc_E_nwtrGQosixWFgOP72nyUP7Jp/view?usp=sharing](https://drive.google.com/file/d/1yBECc_E_nwtrGQosixWFgOP72nyUP7Jp/view?usp=sharing)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1SbbtcAwiULs06ysr8A2j-OsMr8zEPMlO/view?usp=sharing
 - ⚡ Fun fact **I think I am a pro Coder**
 
 <h3 align="left">Connect with me:</h3>
